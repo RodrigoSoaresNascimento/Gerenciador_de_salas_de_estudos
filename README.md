@@ -2,7 +2,7 @@
 <p align="center"> Back end necessario para implementar o projeto usando um 
 banco de dados JPA e H2</p>
 <h2 align="center">Tecnologias usadas</h2>
-<a align="center" href="#tecnologias">
+<a href="#tecnologias">
  Maven, SpringBoot, java 11, Eclipse IDE.</a>  
 </p>
 <h4 align="center"> 
